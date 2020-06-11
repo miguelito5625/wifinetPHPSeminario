@@ -37,10 +37,10 @@ $columns = array(
  
 // SQL server connection information
 $sql_details = array(
-    'user' => 'administrador',
-    'pass' => 'moralesizabal',
+    'user' => 'mikearchila',
+    'pass' => 'Mariobross5625.',
     'db'   => 'wifinet',
-    'host' => '35.237.171.241'
+    'host' => '34.71.138.115'
 );
  
  
