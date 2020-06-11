@@ -174,7 +174,8 @@
                             'contrasenia': contrasenia
                         },
                         success: function (msg) {
-
+                            console.log(msg);
+                            
                             setTimeout(function () {
                                 waitingDialog.hide();
                                 document.getElementById("btn_iniciar_sesion").disabled = false;

@@ -7,9 +7,9 @@
  */
 class Conexion extends mysqli {
 
-    var $host = '35.237.171.241';
-    var $user = 'administrador';
-    var $pass = 'moralesizabal';
+    var $host = '34.71.138.115';
+    var $user = 'mikearchila';
+    var $pass = 'Mariobross5625.';
     var $db = 'wifinet';
     var $myconn;
 
